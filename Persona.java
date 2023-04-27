@@ -3,6 +3,7 @@ public class Persona {
     private String name;
     private String surname;
     private String fc;
+    private String email;
 
     public Persona(String name, String cognome, String fc){
         this.name=name;
